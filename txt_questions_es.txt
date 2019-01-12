@@ -1,0 +1,169 @@
+﻿14
+
+|Para empezar, algo sencillo: ¿Dónde hice mi grado en Bellas Artes?
+A. Colegio Hogwarts de Magia y Hechicería.
+B. Universidad de Miskatonic.
+C. Universidad Complutense de Madrid.
+D. En la Universidad de la Vida.
+C
+¿Alohomora?;Angry
+No, pero ahí es dónde conocí a Cthulhu..;NoNo
+Esta pregunta era de calentamiento...;WinkHappy
+La mejor escuela de todas... jejeje.;DealWithIt
+Demasiado rápido para ti?;Speakshort
+
+|¿Que nombre es mejor para un documento?
+A. Untitled.psd
+B. docFINALseguro.psd
+C. newFINAL2seguroLAST(2).psd
+D. doc.v.01.03.psd
+D
+Nombrar un documento se le olvida hasta los mejores;Tongue
+Bueno, a todos nos ha pasado alguna vez, verdad?;NoNo
+Los nombres interminables sin sentido hacer llorar al niño Jesus.;LOL
+Así se hace el trabajo de todos mas sencillo.;WinkHappy
+Ésta era fácil..;SpeakShort
+
+|¿Que lengua no puedo hablar?
+A. Español.
+B. Englihs.
+C. Klingon.
+D. Aleman.
+C
+Esa es mi lengua materna, así que no es difícil para mi;NoNo
+It was misspelled on purpose, GOTCHA!!.;LOL
+I have no intentions in learning it... right now.;WinkHappy
+He pasado el examen B1 en Alemania... Suficiente para conversacones simples.;NoNo
+Lo puedes hacer mejor...;SpeakShort
+
+|¿Que es diseño utópico?
+A. Rápido y barato.
+B. Barato y bueno.
+C. Bueno y rápido.
+D. Rápido, barato y bueno.
+D
+Eso siempre es posible siempre que no esperes gran calidad.;NoNo
+Eso no es utópico porque te tocará esperar para conseguirlo.;NoNo
+Sólo para los que se pueden dejar la pasta en ello.;NoNo
+Las utopias son el horizonte hacia el que caminamos,¿no?.;WinkHappy
+Puedes hacerlo mejor!...;SpeakShort
+
+|¿Cuál es mi videojuego favorito?
+A. Las aventuras de Peppa Pig y sus amigos.
+B. El secreto de Monkey Island.
+C. Forniteeeeeeeeee.
+D. Final Fantasy XYZ.
+B
+Acaso eso existe?.;NoNo
+Me llamo Antonio Threepwood, ¡y quiero ser diseñador!;WinkHappy
+Ehhh... Debes estar bromeando.;NoNo
+Esa saga tiene juegazos, pero ése no existe.;LOL
+Me llamo Antonio Threepwood, ¡y quiero ser diseñador!;WinkHappyç
+
+|¿Que hace feliz a un diseñador?
+A. Pedirle un .doc para editar el pdf tú mismo.
+B. Briefs definidos, claros y concisos.
+C. Comic Sans.
+D. Revisiones infinitas.
+B
+Nunca hagas eso, ¿Acaso quieres morir?.;LOL
+Nada me hace mas feliz;Ains
+No pillo lo que tiene la gente con esa fuente;LOL
+Un trabajo que no se acaba te hace sentir como Sísifo;NoNo
+Need more time?;SpeakShort
+
+|¿Cuál de estas respuestas es la verdadera?
+A. Todas menos esta.
+B. Sólo esta.
+C. Todas.
+D. Ninguna.
+B
+Vaaale... había poco tiempo para pensarlo.;NoNo
+¡Muy bien! Ahí has estado muy ágil.;WinkKiss
+Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;SpeakLong
+
+|¿Qué es lo que me hizo querer dedicarme al desarrollo de videojuegos?
+A. Intentar hacer de una afición mi profesión.
+B. Ganar montones y montones de dinero.
+C. Para ligar más.
+D. La insensatez de la juventud.
+A
+También podría denominarse "Demasiada pasión por lo suyo".;WinkHappy
+JA JA JA. Para eso una consultoría sería mejor opción...;LOL
+Nah, no creo que con esto se ligue especialmente... o igual yo no me he enterado.;LOL
+Un poco sí, pero la causa principal fue vocacional.;Tongue
+Vaaale... había poco tiempo para pensarlo.;SpeakLong
+
+|¿Cuál sería mi trabajo ideal?
+A. Pirata Mago.
+B. Solucionar de problemas.
+C. Diseñador de videojuegos.
+D. Político corrupto.
+C
+Me gusta como piensas, pero... no.;Angry
+Cómo el señor lobo en Pulp Fiction;LOL
+Esta era bastante fácil... ¿no?;LOL
+No, de eso ya tenemos suficientes.;DealWithIt
+Prueba suerte con la siguiente;Speakshort
+
+|¿Quién ganaría en una batalla? ¿Batman o Superman?
+A. Batman.
+B. Superman.
+C. Sería empate.
+D. Chuck Norris.
+D
+¡Chuck Norris vence a todos!;DealWithIt
+¡Chuck Norris vence a todos!;DealWithIt
+¿Empate? Veo que no te la juegas...;Angry
+¡Chuck Norris vence a todos!;DealWithIt
+¡Chuck Norris vence a todos!;SpeakLong
+
+|¿Qué quería ser cuando era pequeño?
+A. Farmacéutico, como mi padre.
+B. Animador en Pixar Studios.
+C. Profesor, como mi madre.
+D. Programador en LucasArts.
+B
+Era una posibilidad, pero... no.;NoNo
+¡Eso ha sido increíble! ¿Cómo lo has sabido?;WinkKiss
+Era una posibilidad, pero... no.;NoNo
+En su época LucasArts molaba mucho, pero... no.;Angry
+La creatividad me atrajo desde pequeño.;SpeakLong
+
+|¡Luchas como un ganadero!
+A. Qué apropiado. Tú peleas como una vaca.
+B. Yo soy cola, tú pegamento.
+C. ¡¡¡ESTO NO ES NI SIQUIERA UNA PREGUNTA!!!
+D. ¡Vaya idiota!
+A
+¡Sí! ¡Has vencido a la maestra de la espada!;DealWithIt
+Eso, obviamente, no tuvo efecto.;NoNo
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;Tongue
+Eso, obviamente, no tuvo efecto.;NoNo
+En serio, si no has jugado a Monkey Island, deja lo que estés haciendo y ponte a ello.;SpeakLong
+
+|¿Cual de estos trabajos no he hecho NUNCA?
+A. Profesor de Fotografía digital.
+B. Diseñador gráfico.
+C. Sexador de pollos.
+D. Ilustrador técnico.
+C
+En realidad.;NoNo
+A eso me dedico!;Ains
+Dificil, a no ser que sean pollos con una polea en medio.;Tongue
+Estuve ilustrando manuales para Airbus. Lo de los aviones, ¿sabes?.;LOL
+Ésta era fácil...;SpeakShort
+
+|Para terminar... ¿Te ha gustado este videojuego currículum?
+A.  No mucho.
+B.  Más o menos...
+C.  Psseee... No está mal...
+D.  Muchísimo. ¿Quedamos para una entrevista?
+D
+Venga... te daré otra oportunidad.;LOL
+¿En serio? Inténtalo otra vez.;DealWithIt
+Sería mejor si te lo pensaras tranquilamente...;Angry
+¡Claro que sí! !Esa es la respuesta que estaba esperando!;WinkKiss
+BLA BLA.;SpeakLong
