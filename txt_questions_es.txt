@@ -1,6 +1,18 @@
 ﻿14
 
-|Para empezar, algo sencillo: ¿Dónde hice mi grado en Bellas Artes?
+|Para empezar, algo sencillo: ¿Cuál de estas respuestas es la verdadera?
+A. Todas menos esta.
+B. Sólo esta.
+C. Todas.
+D. Ninguna.
+B
+Vaaale... había poco tiempo para pensarlo.;NoNo
+¡Muy bien! Ahí has estado muy ágil.;WinkKiss
+Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;NoNo
+Vaaale... había poco tiempo para pensarlo.;SpeakLong
+
+|¿Dónde hice mi grado en Bellas Artes?
 A. Colegio Hogwarts de Magia y Hechicería.
 B. Universidad de Miskatonic.
 C. Universidad Complutense de Madrid.
@@ -68,23 +80,11 @@ D. Revisiones infinitas.
 B
 Nunca hagas eso, ¿Acaso quieres morir?.;LOL
 Nada me hace mas feliz;Ains
-No pillo lo que tiene la gente con esa fuente;LOL
+La mejor fuente de todos los tiempos, sin duda;LOL
 Un trabajo que no se acaba te hace sentir como Sísifo;NoNo
 Need more time?;SpeakShort
 
-|¿Cuál de estas respuestas es la verdadera?
-A. Todas menos esta.
-B. Sólo esta.
-C. Todas.
-D. Ninguna.
-B
-Vaaale... había poco tiempo para pensarlo.;NoNo
-¡Muy bien! Ahí has estado muy ágil.;WinkKiss
-Vaaale... había poco tiempo para pensarlo.;NoNo
-Vaaale... había poco tiempo para pensarlo.;NoNo
-Vaaale... había poco tiempo para pensarlo.;SpeakLong
-
-|¿Qué es lo que me hizo querer dedicarme al desarrollo de videojuegos?
+|¿Qué es lo que me hizo querer dedicarme al diseño gráfico?
 A. Intentar hacer de una afición mi profesión.
 B. Ganar montones y montones de dinero.
 C. Para ligar más.
@@ -96,10 +96,22 @@ Nah, no creo que con esto se ligue especialmente... o igual yo no me he enterado
 Un poco sí, pero la causa principal fue vocacional.;Tongue
 Vaaale... había poco tiempo para pensarlo.;SpeakLong
 
+|¿Que programa es mejor?
+A. Depende e la tarea.
+B. MS Paint.
+C. Adobe Indesign.
+D. Adobe Photoshop.
+A
+Diferentes herramientas para diferentes tareas, pero inútiles sin un profesional detrás.;SpeakLong 
+Este juego podría estar hecho ahí, pero no es correcto.;WinkTongue
+Esa respuesta es de un amante de Páginas Maestras.;WinkKiss
+Ése es el más fácil de usar: Archivo/Filtro/CrearDiseñoBonito.;LOL
+Ésa era unaa fácil...;SpeakShort
+
 |¿Cuál sería mi trabajo ideal?
 A. Pirata Mago.
 B. Solucionar de problemas.
-C. Diseñador de videojuegos.
+C. Diseñador gráfico.
 D. Político corrupto.
 C
 Me gusta como piensas, pero... no.;Angry

@@ -1,11 +1,11 @@
 ﻿CACHE MANIFEST
-#1547310073
+#1547348207
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/tiledbackground.png
 images/button1-sheet0.png
-images/button1-sheet1.png
+images/button2-sheet0.png
 images/spritequestion-sheet0.png
 images/spriteprogressbar-sheet0.png
 images/particlesprogressbar.png
@@ -26,9 +26,12 @@ images/flages-sheet0.png
 images/flagen-sheet0.png
 images/iconplay-sheet0.png
 images/tiledbackground2.png
+images/button1collider-sheet0.png
+images/button2collider-sheet0.png
 images/pausegame-sheet0.png
 images/pausegame-sheet1.png
 images/tiledbackground3.png
+images/9patch.png
 media/correct.ogg
 media/incorrect.ogg
 media/menu.ogg

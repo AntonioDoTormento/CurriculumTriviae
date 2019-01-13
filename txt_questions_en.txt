@@ -1,6 +1,18 @@
-﻿14
+﻿15
 
-|Let's start with something simple: Where did I get my Fine Arts Degree?
+|Let's start with something simple:Which of these answers is true?
+A. All but this one.
+B. Just this one.
+C. All of them.
+D. None of them.
+B
+Okaaaay... there was very little time to think.;NoNo
+Very good! You've been very quick.;WinkKiss
+Okaaaay... there was very little time to think.;NoNo
+Okaaaay... there was very little time to think.;NoNo
+Okaaaay... there was very little time to think.;SpeakShort
+
+|Where did I get my Fine Arts Degree?
 A. Hogwarts School of Witchcraft and Wizardry.
 B. Miskatonic University.
 C. Complutense University of Madrid.
@@ -68,23 +80,11 @@ D. Infinite revisions.
 B
 Do you want to die?.;LOL
 Nothing makes me happier;Ains
-I dont get what people have with that font;LOL
+The best font of all time, no doubt;LOL
 Never ending job makes me feel like Sisyphus;NoNo
 Need more time?;SpeakShort
 
-|Which of these answers is true?
-A. All but this one.
-B. Just this one.
-C. All of them.
-D. None of them.
-B
-Okaaaay... there was very little time to think.;NoNo
-Very good! You've been very quick.;WinkKiss
-Okaaaay... there was very little time to think.;NoNo
-Okaaaay... there was very little time to think.;NoNo
-Okaaaay... there was very little time to think.;SpeakShort
-
-|What made me want to be in the game development industry?
+|What made me want to be a graphic designer?
 A. To try to turn my hobby into my job.
 B. To earn lots and lots of money.
 C. To look more attractive.
@@ -96,10 +96,22 @@ Nah, I don't think that works... or I haven't noticed.;LOL
 A little bit, but the main reason was vocational.;Tongue
 That was an easy one...;SpeakShort
 
+|Which program its better?
+A. Depends on the task.
+B. MS Paint.
+C. Adobe Indesign.
+D. Adobe Photoshop.
+B
+Different tools are for different tasks, useless without a professional using them.;SpeakLong 
+This whole game could be made there, but that's not right.;WinkTongue
+You look like a Master Page lover.;WinkKiss
+That's the easiest to use: File/Filter/CreateFancyDesign.;LOL
+That was an easy one...;SpeakShort
+
 |What would be my ideal profession?
 A. Pirate Wizard.
 B. Problem solver.
-C. Video game designer.
+C. Graphic designer.
 D. Corrupt politician.
 C
 I like the way you think, but... nope.;Angry
@@ -172,13 +184,7 @@ BLA BLA.;SpeakLong
 
 
 
-
-|?
-A. 
-B. 
-C. 
-D. 
-D
+----PREGUNTAS DE LIN NO USADAS----
 
 |Let's start with something simple: How much is 2+2?
 A. 4.
