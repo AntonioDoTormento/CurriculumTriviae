@@ -1,4 +1,4 @@
-﻿15
+15
 
 |Let's start with something simple:Which of these answers is true?
 A. All but this one.
@@ -42,7 +42,7 @@ B. Englihs.
 C. Klingon.
 D. German.
 C
-Thats my mother tongue, so thats easy for me;NoNo
+That's my mother tongue, so that's easy for me;NoNo
 It was misspelled on purpose, GOTCHA!!.;LOL
 I have no intentions in learning it... right now.;WinkHappy
 I passed my B1 Level in Germany... Enough for simple conversations.;NoNo
@@ -57,10 +57,10 @@ D
 It can be done if you're not expecting high quality.;NoNo
 It's not utopic because you might be waiting a while.;NoNo
 Only ideal if you have the cash to splash.;NoNo
-Utopias keep us stribing, right?.;WinkHappy
+Utopias keep us striving, right?.;WinkHappy
 Think fast!...;SpeakShort
 
-|Which one is my favourite video game?
+|Which one is my favorite video game?
 A. The adventures of Peppa Pig and Friends.
 B. The Secret of Monkey Island.
 C. Forniteeeeeeeeee.
@@ -101,12 +101,12 @@ A. Depends on the task.
 B. MS Paint.
 C. Adobe Indesign.
 D. Adobe Photoshop.
-B
-Different tools are for different tasks, useless without a professional using them.;SpeakLong 
+A
+Different tools are for different tasks, but useless without a professional using them.;SpeakLong 
 This whole game could be made there, but that's not right.;WinkTongue
 You look like a Master Page lover.;WinkKiss
 That's the easiest to use: File/Filter/CreateFancyDesign.;LOL
-That was an easy one...;SpeakShort
+You can do better...;SpeakShort
 
 |What would be my ideal profession?
 A. Pirate Wizard.
@@ -165,7 +165,7 @@ C
 Actually I've teached photography and digital editing to mature students .;NoNo
 That is my profession!;Ains
 Hardly true... unless they were rubber chickens with a pulley in the middle.;Tongue
-I was illustrating manuals for Airbus. Aeroplanes, you know?.;LOL
+I was illustrating manuals for Airbus. Airplanes, you know?.;LOL
 That was an easy one...;SpeakShort
 
 |And the last one... Did you like this video game resume?
@@ -174,7 +174,7 @@ B.  More or less...
 C.  It's not too bad...
 D.  A lot. When can I meet you?
 D
-I'll give you another oportunity.;LOL
+I'll give you another opportunity.;LOL
 Really? Try again.;DealWithIt
 It would be better if you think this through carefully...;Angry
 Yes! That is the answer I wanted to hear!;WinkKiss
